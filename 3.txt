@@ -1,1 +1,1 @@
-This is 3.txt for RTC-Alarm-Clock
+This is 3.txt for RTC-Alarm-Clock.
